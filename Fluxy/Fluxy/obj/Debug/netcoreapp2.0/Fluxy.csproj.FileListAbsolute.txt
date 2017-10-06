@@ -1,0 +1,13 @@
+D:\Workouts\Fluxy\Fluxy\Fluxy\bin\Debug\netcoreapp2.0\Fluxy.deps.json
+D:\Workouts\Fluxy\Fluxy\Fluxy\bin\Debug\netcoreapp2.0\Fluxy.runtimeconfig.json
+D:\Workouts\Fluxy\Fluxy\Fluxy\bin\Debug\netcoreapp2.0\Fluxy.runtimeconfig.dev.json
+D:\Workouts\Fluxy\Fluxy\Fluxy\bin\Debug\netcoreapp2.0\Fluxy.dll
+D:\Workouts\Fluxy\Fluxy\Fluxy\bin\Debug\netcoreapp2.0\Fluxy.pdb
+D:\Workouts\Fluxy\Fluxy\Fluxy\bin\Debug\netcoreapp2.0\DAL.dll
+D:\Workouts\Fluxy\Fluxy\Fluxy\bin\Debug\netcoreapp2.0\DAL.pdb
+D:\Workouts\Fluxy\Fluxy\Fluxy\obj\Debug\netcoreapp2.0\Fluxy.csprojResolveAssemblyReference.cache
+D:\Workouts\Fluxy\Fluxy\Fluxy\obj\Debug\netcoreapp2.0\Fluxy.csproj.CoreCompileInputs.cache
+D:\Workouts\Fluxy\Fluxy\Fluxy\obj\Debug\netcoreapp2.0\Fluxy.AssemblyInfoInputs.cache
+D:\Workouts\Fluxy\Fluxy\Fluxy\obj\Debug\netcoreapp2.0\Fluxy.AssemblyInfo.cs
+D:\Workouts\Fluxy\Fluxy\Fluxy\obj\Debug\netcoreapp2.0\Fluxy.dll
+D:\Workouts\Fluxy\Fluxy\Fluxy\obj\Debug\netcoreapp2.0\Fluxy.pdb
